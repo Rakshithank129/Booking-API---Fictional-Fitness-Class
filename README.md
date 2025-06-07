@@ -1,4 +1,4 @@
-# 🧘‍♀️ Fitness Studio Booking API
+#  Fitness Studio Booking API
 
 This project is a simple Booking API for a fictional fitness studio that offers classes like **Yoga**, **Zumba**, and **HIIT**. It allows users to view classes, book them, and check their booking history.
 
